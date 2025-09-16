@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Debidutta Sahoo
-**A passionate Python Developer || MERN Stack Developer || Kafka Admin from India**
+**A passionate Python Developer 🐍 | 💫 Data Analyst 📊 | MERN Stack Developer 🌐 | Turning data & ideas into solutions.**
 
 Email Me 👉 ✉️ **sdebidutta2024@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
